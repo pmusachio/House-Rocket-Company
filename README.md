@@ -1,4 +1,4 @@
-# House Rocket Project 
+# House Rocket Company
 
 <img src="https://user-images.githubusercontent.com/000.png" alt="logo" style="zoom:100%;" />
 
