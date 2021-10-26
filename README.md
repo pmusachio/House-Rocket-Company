@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/000.png" alt="logo" style="zoom:100%;" />
 
-This project is following the blog recommendations [Seja um Data Scientist](https://sejaumdatascientist.com/os-5-projetos-de-data-science-que-fara-o-recrutador-olhar-para-voce/)
+This project is following the [Comunidade DS](https://www.comunidadedatascience.com/comunidade-ds/) training recommendations, the context is completely fictitious, the company, the CEO and the business problems exist only in the author's imagination.
 
 ## 1 Description
 
