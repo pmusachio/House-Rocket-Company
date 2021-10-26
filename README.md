@@ -1,6 +1,6 @@
 # House Rocket Company
 
-This project is following the [Comunidade DS](https://www.comunidadedatascience.com/comunidade-ds/) training recommendations, the context is completely fictitious, the company, the CEO and the business problems exist only in the author's imagination.
+This project is following the [Comunidade DS](https://www.comunidadedatascience.com/comunidade-ds/) training recommendations, the context is completely fictitious and the business problems exist only in the author's imagination.
 
 <img src="https://user-images.githubusercontent.com/000.png" alt="logo" style="zoom:100%;" />
 
