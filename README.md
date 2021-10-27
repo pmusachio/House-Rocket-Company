@@ -2,7 +2,7 @@
 
 <img src="https://github.com/pmusachio/House-Rocket-Company/blob/main/logo_house_rocket.png" />
 
-House Rocket is a digital platform whose business model is the purchase and sale of real estate using technology.
+House Rocket is a digital platform whose business model is the buy and sale of real estate using technology.
 
 You are a Data Scientist hired by the company to help you find the best business opportunities in the real estate market. House Rocket's CEO would like to maximize the company's revenue by finding good business opportunities.
 
