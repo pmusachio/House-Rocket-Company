@@ -1,21 +1,48 @@
-# House Rocket Company
+## Background
 
-- This project is following the [Comunidade DS](https://www.comunidadedatascience.com/comunidade-ds/) training recommendations, the context is completely fictitious and the business problems exist only in the author's imagination.
+<img src="https://github.com/pmusachio/House-Rocket-Company/blob/main/logo_house_rocket.png" />
 
-- This project aims to recommend solutions to business problems through Insights generated with Exploratory Data Analysis, which can be accessed from any device.
+House Rocket is a digital platform whose business model is the purchase and sale of real estate using technology.
 
-<img src="https://user-images.githubusercontent.com/logo_house_rocket.png" alt="logo" style="zoom:100%;" />
+You are a Data Scientist hired by the company to help you find the best business opportunities in the real estate market. House Rocket's CEO would like to maximize the company's revenue by finding good business opportunities.
 
-## 1 Description
+Your main strategy is to buy good houses in great locations at low prices and then resell them later at higher prices. The greater the difference between buying and selling, the greater the company's profit and therefore the greater its revenue.
 
-## 2 Attributes
+However, homes have many attributes that make them more or less attractive to buyers and sellers, and location and time of year can also influence prices.
 
-## 3 Business Assumptions
+Therefore, your job as a Data Scientist is to answer the following questions:
+- Which houses should the CEO of House Rocket buy and at what purchase price?
+- Once the house is owned by the company, what is the best time to sell them and what would be the sale price?
+- Should House Rocket do a renovation to increase the sale price?
+- What would be the suggestions for changes?
+- What is the price increase given for each refurbishment option?
 
-## 4 Solution Strategy
+## Clarification
 
-## 5 Top Insights
+### Understanding the Problem
+- Why did the CEO ask these questions? 
+- If you were him, why would you ask that? 
+- Want to increase revenue? 
+- Is the company doing well?
 
-## 6 Translation for Business
+### Data Collection
+- The dataset representing the context is available on the Kaggle platform [house sales prediction](https://www.kaggle.com/harlfoxem/housesalesprediction).
 
-## 7 Conclusion
+### Data Cleaning
+- Understanding the variables
+- Possible missing values
+- Descriptive statistics for understanding the data
+
+### Survey of Hypotheses
+- Are houses with garages more expensive? Why?
+- Are houses with many rooms more expensive? Why? From how many rooms does the price increase? What is the price increase for each room added?
+- Are the most expensive houses in the center? Which region? Is there anything in the region that correlates the sale value? Shopping malls? Mountains? Artists?
+
+### Exploratory Data Analysis
+- Which hypotheses are false and which are true?
+- What are the correlations between the variables and the response?
+
+### Top Insights
+### Countermeasures
+
+## Conclusion
