@@ -4,7 +4,7 @@
 
 - This project aims to recommend solutions to business problems through Insights generated with Exploratory Data Analysis, which can be accessed from any device.
 
-<img src="https://user-images.githubusercontent.com/000.png" alt="logo" style="zoom:100%;" />
+<img src="https://user-images.githubusercontent.com/logo_house_rocket.png" alt="logo" style="zoom:100%;" />
 
 ## 1 Description
 
