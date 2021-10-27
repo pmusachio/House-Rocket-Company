@@ -1,4 +1,4 @@
-## Background
+## Business Problem
 
 <img src="https://github.com/pmusachio/House-Rocket-Company/blob/main/logo_house_rocket.png" />
 
@@ -17,7 +17,7 @@ Therefore, your job as a Data Scientist is to answer the following questions:
 - What would be the suggestions for changes?
 - What is the price increase given for each refurbishment option?
 
-## Clarification
+## Solution Planning
 
 ### Understanding the Problem
 - Why did the CEO ask these questions? 
