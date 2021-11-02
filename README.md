@@ -6,43 +6,55 @@ House Rocket is a digital platform whose business model is the buy and sale of r
 
 You are a Data Scientist hired by the company to help you find the best business opportunities in the real estate market. House Rocket's CEO would like to maximize the company's revenue by finding good business opportunities.
 
-Your main strategy is to buy good houses in great locations at low prices and then resell them later at higher prices. The greater the difference between buying and selling, the greater the company's profit and therefore the greater its revenue.
+Your main strategy is to buy good houses in great locations at low prices and then resell them later at higher prices. The greater the difference between buying and selling, the greater the company's profit.
 
 However, homes have many attributes that make them more or less attractive to buyers and sellers, and location and time of year can also influence prices.
 
-Therefore, your job as a Data Scientist is to answer the following questions:
-- Which houses should the CEO of House Rocket buy and at what purchase price?
-- Once the house is owned by the company, what is the best time to sell them and what would be the sale price?
-- Should House Rocket do a renovation to increase the sale price?
-- What would be the suggestions for changes?
-- What is the price increase given for each refurbishment option?
+## CEO Questions
+### 1st Meeting
+- How many houses are available for buy?
+- How many attributes do the houses have?
+- What are the attributes?
+- What is the greater value house?
+- Which house has the most rooms?
+
+### 2nd meeting
+- p
+
+### 3rd meeting
+- p
 
 ## Solution Planning
 
-### Understanding the Problem
-- Why did the CEO ask these questions? 
-- If you were him, why would you ask that? 
-- Want to increase revenue? 
-- Is the company doing well?
+### Product Planning
+The final product will be a text with Questions|Answers
 
-### Data Collection
-- The dataset representing the context is available on the Kaggle platform [house sales prediction](https://www.kaggle.com/harlfoxem/housesalesprediction).
+### Process Planning
+- Data Collection
 
-### Data Cleaning
-- Understanding the variables
-- Possible missing values
-- Descriptive statistics for understanding the data
+The dataset is available on the Kaggle platform [house sales prediction](https://www.kaggle.com/harlfoxem/housesalesprediction).
 
-### Survey of Hypotheses
-- Are houses with garages more expensive? Why?
-- Are houses with many rooms more expensive? Why? From how many rooms does the price increase? What is the price increase for each room added?
-- Are the most expensive houses in the center? Which region? Is there anything in the region that correlates the sale value? Shopping malls? Mountains? Artists?
+- Answer the questions
 
-### Exploratory Data Analysis
-- Which hypotheses are false and which are true?
-- What are the correlations between the variables and the response?
+How many houses are available for buy?
+ | Count the number of rows in the dataset
+ 
+How many attributes do the houses have?
+ | 
+ 
+What are the attributes?
+ | 
+ 
+What is the greater value house?
+ | 
+ 
+Which house has the most rooms?
+ | 
+ 
 
-### Top Insights
-### Countermeasures
+### Tools Planning
+- W
 
-## Conclusion
+
+## Problem Answers
+- W
