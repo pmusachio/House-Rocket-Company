@@ -10,51 +10,52 @@ Your main strategy is to buy good houses in great locations at low prices and th
 
 However, homes have many attributes that make them more or less attractive to buyers and sellers, and location and time of year can also influence prices.
 
-## CEO Questions
+### CEO Questions
 
-### 1st Meeting
-
-- How many houses are available for buy?
-- How many attributes do the houses have?
-- What are the attributes?
-- What is the greater value house?
-- Which house has the most rooms?
-
-### 2nd meeting
-
-- p
-
-### 3rd meeting
-
-- p
+No | Questions
+-|-
+1 | How many houses are available for buy?
+2 | How many attributes do the houses have?
+3 | What are the attributes?
+4 | What is the greater value house?
+5 | Which house has the most rooms?
 
 ## Solution Planning
 
 ### Product Planning
 
-- The final product will be a text with Questions|Answers
+The final product will be a spreadsheet with: 
+
+No | Questions | Answers
+-|-|-
 
 ### Process Planning
 
 #### Data Collection
 
-- The dataset is available on the Kaggle platform [house sales prediction](https://www.kaggle.com/harlfoxem/housesalesprediction).
+The dataset is available on the Kaggle platform [house sales prediction](https://www.kaggle.com/harlfoxem/housesalesprediction).
 
 #### Answer the questions
 
-- How many houses are available for buy? ➤ Count the number of rows in the dataset
-
-- How many attributes do the houses have? ➤ Count the number of columns in the dataset
- 
-- What are the attributes? ➤ Show column names
- 
-- What is the greater value house? ➤ Sort the rows by price column
- 
-- Which house has the most rooms? ➤ Sort the rows by bedrooms column
+No | Questions | Process
+-|-|-
+1 | How many houses are available for buy? | Count the number of rows in the dataset
+2 | How many attributes do the houses have? | Count the number of columns in the dataset
+3 | What are the attributes? | Show column names
+4 | What is the greater value house? | Sort the rows by price column
+5 | Which house has the most rooms? | Sort the rows by bedrooms column
  
 
 ### Tools Planning
-- Python
+
+Python
 
 ## Problem Answers
-- W
+
+No | Questions | Answers
+-|-|-
+1 | How many houses are available for buy? | 
+2 | How many attributes do the houses have? | 
+3 | What are the attributes? | 
+4 | What is the greater value house? | 
+5 | Which house has the most rooms? | 
