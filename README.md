@@ -11,7 +11,9 @@ Your main strategy is to buy good houses in great locations at low prices and th
 However, homes have many attributes that make them more or less attractive to buyers and sellers, and location and time of year can also influence prices.
 
 ## CEO Questions
+
 ### 1st Meeting
+
 - How many houses are available for buy?
 - How many attributes do the houses have?
 - What are the attributes?
@@ -19,42 +21,40 @@ However, homes have many attributes that make them more or less attractive to bu
 - Which house has the most rooms?
 
 ### 2nd meeting
+
 - p
 
 ### 3rd meeting
+
 - p
 
 ## Solution Planning
 
 ### Product Planning
-The final product will be a text with Questions|Answers
+
+- The final product will be a text with Questions|Answers
 
 ### Process Planning
-- Data Collection
 
-The dataset is available on the Kaggle platform [house sales prediction](https://www.kaggle.com/harlfoxem/housesalesprediction).
+#### Data Collection
 
-- Answer the questions
+- The dataset is available on the Kaggle platform [house sales prediction](https://www.kaggle.com/harlfoxem/housesalesprediction).
 
-How many houses are available for buy?
- | Count the number of rows in the dataset
+#### Answer the questions
+
+- How many houses are available for buy? ➤ Count the number of rows in the dataset
+
+- How many attributes do the houses have? ➤ Count the number of columns in the dataset
  
-How many attributes do the houses have?
- | 
+- What are the attributes? ➤ Show column names
  
-What are the attributes?
- | 
+- What is the greater value house? ➤ Sort the rows by price column
  
-What is the greater value house?
- | 
- 
-Which house has the most rooms?
- | 
+- Which house has the most rooms? ➤ Sort the rows by bedrooms column
  
 
 ### Tools Planning
-- W
-
+- Python
 
 ## Problem Answers
 - W
